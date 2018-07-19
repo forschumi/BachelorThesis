@@ -2,9 +2,11 @@
 
 ------
 
-##Environment:
-Xilinx ISE 14.6
-ModelSim 10.4 SE
+## Environment:
+
+> * Xilinx ISE 14.6
+
+> * ModelSim 10.4 SE
 
 :high_brightness: **[Sources](./src)** :high_brightness:
 
