@@ -1,0 +1,14 @@
+# Output products list for <sub>
+_xmsgs\pn_parser.xmsgs
+sub.asy
+sub.gise
+sub.ngc
+sub.v
+sub.veo
+sub.xco
+sub.xise
+sub\doc\floating_point_ds335.pdf
+sub\doc\floating_point_v5_0_readme.txt
+sub\doc\floating_point_v5_0_vinfo.html
+sub_flist.txt
+sub_xmdf.tcl

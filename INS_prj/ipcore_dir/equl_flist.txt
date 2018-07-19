@@ -1,0 +1,14 @@
+# Output products list for <equl>
+_xmsgs\pn_parser.xmsgs
+equl.asy
+equl.gise
+equl.ngc
+equl.v
+equl.veo
+equl.xco
+equl.xise
+equl\doc\floating_point_ds335.pdf
+equl\doc\floating_point_v5_0_readme.txt
+equl\doc\floating_point_v5_0_vinfo.html
+equl_flist.txt
+equl_xmdf.tcl

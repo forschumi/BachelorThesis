@@ -1,0 +1,14 @@
+# Output products list for <atan>
+atan.asy
+atan.gise
+atan.ngc
+atan.v
+atan.veo
+atan.xco
+atan.xise
+atan\doc\cordic_ds249.pdf
+atan\doc\cordic_v4_0_vinfo.html
+atan_flist.txt
+atan_padded.ngc
+atan_readme.txt
+atan_xmdf.tcl
